@@ -1,0 +1,4539 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema"
+   xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
+   <e>
+      <lg>
+         <l pos="V">ahavoija</l>
+         <stg>
+            <st Contlex="V-voija">ahavoi</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="V">ahavoida</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">haravoija</l>
+         <stg>
+            <st Contlex="V-voija">haravoi</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="V">haravoida</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">kiirehtiä</l>
+         <stg>
+            <st Contlex="V-kiirehtiä">kiireh</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="V">kiirehtiä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">hävitä</l>
+         <stg>
+            <st Contlex="V-hävitä">hävi</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">juuvva</l>
+         <stg>
+            <st Contlex="V-tuuvva">joo</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">tuuvva</l>
+         <stg>
+            <st Contlex="V-tuuvva">too</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">syyvvä</l>
+         <stg>
+            <st Contlex="V-tuuvva">söö</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">lyyvvä</l>
+         <stg>
+            <st Contlex="V-tuuvva">löö</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">myyvvä</l>
+         <stg>
+            <st Contlex="V-tuuvva">möö</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">luuvva</l>
+         <stg>
+            <st Contlex="V-tuuvva">loo</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">vuhissa</l>
+         <stg>
+            <st Contlex="V-vuhissa">vuhis</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">pölässä</l>
+         <stg>
+            <st Contlex="V-vuhissa">pöläs</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">joossa</l>
+         <stg>
+            <st Contlex="V-joossa">joo</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">mainita</l>
+         <stg>
+            <st Contlex="V-merkitä">maini</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">kehittyä</l>
+         <stg>
+            <st Contlex="V-kutsua">kehitty</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">käyvvä</l>
+         <stg>
+            <st Contlex="V-käyvvä">kä</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="V">käydä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">jäävvä</l>
+         <stg>
+            <st Contlex="V-jäävvä">jää</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="V">jäädä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">veevvä</l>
+         <stg>
+            <st Contlex="V-jäävvä">vee</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="V">viedä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">toovva</l>
+         <stg>
+            <st Contlex="V-jäävvä">too</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">saavva</l>
+         <stg>
+            <st Contlex="V-jäävvä">saa</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="V">saada</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">voija</l>
+         <stg>
+            <st Contlex="V-voija">voi</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="V">voida</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">antaa</l>
+         <stg>
+            <st Contlex="V-antaa">ant</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">nagraa</l>
+         <stg>
+            <st Contlex="V-antaa">nagr</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">raataa</l>
+         <stg>
+            <st Contlex="V-antaa">raat</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">verkkaa</l>
+         <stg>
+            <st Contlex="V-antaa">verkk</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">kantaa</l>
+         <stg>
+            <st Contlex="V-antaa">kant</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">kaataa</l>
+         <stg>
+            <st Contlex="V-antaa">kaat</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">kattaa</l>
+         <stg>
+            <st Contlex="V-antaa">katt</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">alkaa</l>
+         <stg>
+            <st Contlex="V-antaa">alk</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">vaihtaa</l>
+         <stg>
+            <st Contlex="V-antaa">vaiht</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">kaivaa</l>
+         <stg>
+            <st Contlex="V-antaa">kaiv</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">sataa</l>
+         <stg>
+            <st Contlex="V-antaa">sat</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">mahtaa</l>
+         <stg>
+            <st Contlex="V-antaa">maht</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">ajaa</l>
+         <stg>
+            <st Contlex="V-antaa">aj</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">laulaa</l>
+         <stg>
+            <st Contlex="V-antaa">laul</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">maksaa</l>
+         <stg>
+            <st Contlex="V-antaa">maks</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">lukkia</l>
+         <stg>
+            <st Contlex="V-lukkia">luk</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">lähtiä</l>
+         <stg>
+            <st Contlex="V-lukkia">läht</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">käskiä</l>
+         <stg>
+            <st Contlex="V-lukkia">käsk</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">kulkia</l>
+         <stg>
+            <st Contlex="V-lukkia">kulk</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">särkiä</l>
+         <stg>
+            <st Contlex="V-lukkia">särk</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">lähtiä</l>
+         <stg>
+            <st Contlex="V-lukkia">läht</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">tuntia</l>
+         <stg>
+            <st Contlex="V-lukkia">tunt</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">palaa</l>
+         <stg>
+            <st Contlex="V-antaa">pal</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">tappaa</l>
+         <stg>
+            <st Contlex="V-antaa">tapp</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">jakkaa</l>
+         <stg>
+            <st Contlex="V-antaa">jak</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">sannoa</l>
+         <stg>
+            <st Contlex="V-sannoa">sa</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">pittää</l>
+         <stg>
+            <st Contlex="V-näyttää">pit</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">näyttää</l>
+         <stg>
+            <st Contlex="V-näyttää">näytt</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">niittää</l>
+         <stg>
+            <st Contlex="V-näyttää">niitt</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">peittää</l>
+         <stg>
+            <st Contlex="V-näyttää">peitt</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">peeksää</l>
+         <stg>
+            <st Contlex="V-näyttää">peeks</st>
+            <st Contlex="V-näyttää">pieks</st>
+            <st Contlex="V-näyttää">piiks</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">piättää</l>
+         <stg>
+            <st Contlex="V-näyttää">piätt</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">keittää</l>
+         <stg>
+            <st Contlex="V-näyttää">keitt</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">soittaa</l>
+         <stg>
+            <st Contlex="V-näyttää">soitt</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">suittaa</l>
+         <stg>
+            <st Contlex="V-näyttää">suitt</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">keittää</l>
+         <stg>
+            <st Contlex="V-näyttää">keitt</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">pistää</l>
+         <stg>
+            <st Contlex="V-näyttää">pist</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">hoitaa</l>
+         <stg>
+            <st Contlex="V-näyttää">hoit</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">jättää</l>
+         <stg>
+            <st Contlex="V-näyttää">jätt</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">kylvää</l>
+         <stg>
+            <st Contlex="V-näyttää">kylv</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">kyntää</l>
+         <stg>
+            <st Contlex="V-näyttää">kynt</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">kääntää</l>
+         <stg>
+            <st Contlex="V-näyttää">käänt</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">lentää</l>
+         <stg>
+            <st Contlex="V-näyttää">lent</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">keeltää</l>
+         <stg>
+            <st Contlex="V-näyttää">keelt</st>
+            <st Contlex="V-näyttää">kielt</st>
+            <st Contlex="V-näyttää">kiilt</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">stroittaa</l>
+         <stg>
+            <st Contlex="V-näyttää">stroitt</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">soittaa</l>
+         <stg>
+            <st Contlex="V-näyttää">soitt</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">kyntää</l>
+         <stg>
+            <st Contlex="V-näyttää">kynt</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">liittää</l>
+         <stg>
+            <st Contlex="V-näyttää">liitt</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">muuttaa</l>
+         <stg>
+            <st Contlex="V-näyttää">muutt</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">täyttää</l>
+         <stg>
+            <st Contlex="V-näyttää">täytt</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">käyttää</l>
+         <stg>
+            <st Contlex="V-näyttää">käytt</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">toittaa</l>
+         <stg>
+            <st Contlex="V-näyttää">toitt</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">ottaa</l>
+         <stg>
+            <st Contlex="V-näyttää">ott</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">purkaa</l>
+         <stg>
+            <st Contlex="V-näyttää">purk</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">ostaa</l>
+         <stg>
+            <st Contlex="V-näyttää">ost</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">kestää</l>
+         <stg>
+            <st Contlex="V-näyttää">kest</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">lypsää</l>
+         <stg>
+            <st Contlex="V-näyttää">lyps</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">vestää</l>
+         <stg>
+            <st Contlex="V-näyttää">vest</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">muistaa</l>
+         <stg>
+            <st Contlex="V-näyttää">muist</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">nostaa</l>
+         <stg>
+            <st Contlex="V-näyttää">nost</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">pyytää</l>
+         <stg>
+            <st Contlex="V-näyttää">pyyt</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">soutaa</l>
+         <stg>
+            <st Contlex="V-näyttää">sout</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">ellää</l>
+         <stg>
+            <st Contlex="V-näyttää">el</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">löytää</l>
+         <stg>
+            <st Contlex="V-näyttää">löyt</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">merkitä</l>
+         <stg>
+            <st Contlex="V-merkitä">merki</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">valita</l>
+         <stg>
+            <st Contlex="V-merkitä">vali</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">kasvaa</l>
+         <stg>
+            <st Contlex="V-antaa">kasv</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">nähä</l>
+         <stg>
+            <st Contlex="V-nähä">nä</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">tehä</l>
+         <stg>
+            <st Contlex="V-nähä">te</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">painuttaissa</l>
+         <stg>
+            <st Contlex="V-painuttaissa">painuttai</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">aloittaissa</l>
+         <stg>
+            <st Contlex="V-painuttaissa">aloittai</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">eroittaissa</l>
+         <stg>
+            <st Contlex="V-painuttaissa">eroittai</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">gruppiruissa</l>
+         <stg>
+            <st Contlex="V-painuttaissa">gruppirui</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">erittäissä</l>
+         <stg>
+            <st Contlex="V-painuttaissa">erittäi</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">pittiissä</l>
+         <stg>
+            <st Contlex="V-pittiissä">pittii</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">muuttiissa</l>
+         <stg>
+            <st Contlex="V-pittiissä">muuttii</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">suittiissa</l>
+         <stg>
+            <st Contlex="V-pittiissä">suittii</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">sööttiissä</l>
+         <stg>
+            <st Contlex="V-pittiissä">sööttii</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">näyttiissä</l>
+         <stg>
+            <st Contlex="V-pittiissä">näyttii</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">vaihtiissa</l>
+         <stg>
+            <st Contlex="V-pittiissä">vaihtii</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">kirjuttaa</l>
+         <stg>
+            <st Contlex="V-kirjuttaa">kirjutt</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">poljzuittaa</l>
+         <stg>
+            <st Contlex="V-kirjuttaa">polljzuitt</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">pöörittää</l>
+         <stg>
+            <st Contlex="V-kirjuttaa">pööritt</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">unnohtaa</l>
+         <stg>
+            <st Contlex="V-kirjuttaa">unnoht</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">puhastaa</l>
+         <stg>
+            <st Contlex="V-kirjuttaa">puhast</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">issuttaa</l>
+         <stg>
+            <st Contlex="V-kirjuttaa">issutt</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">itettää</l>
+         <stg>
+            <st Contlex="V-kirjuttaa">itett</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">viheltää</l>
+         <stg>
+            <st Contlex="V-kirjuttaa">vihelt</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">veeruittaa</l>
+         <stg>
+            <st Contlex="V-kirjuttaa">veeruitt</st>
+            <st Contlex="V-kirjuttaa">vieruitt</st>
+            <st Contlex="V-kirjuttaa">viiruitt</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">janottaa</l>
+         <stg>
+            <st Contlex="V-kirjuttaa">janott</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">kuvattaa</l>
+         <stg>
+            <st Contlex="V-kirjuttaa">kuvatt</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">osoittaa</l>
+         <stg>
+            <st Contlex="V-kirjuttaa">osoitt</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">otraƶoittaa</l>
+         <stg>
+            <st Contlex="V-kirjuttaa">otraƶoitt</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">nagrattaa</l>
+         <stg>
+            <st Contlex="V-kirjuttaa">nagratt</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">tuiskuttaa</l>
+         <stg>
+            <st Contlex="V-kirjuttaa">tuiskutt</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">treebuittaa</l>
+         <stg>
+            <st Contlex="V-kirjuttaa">treebuitt</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">sekkoittaa</l>
+         <stg>
+            <st Contlex="V-kirjuttaa">sekkoitt</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">uuvvistaa</l>
+         <stg>
+            <st Contlex="V-kirjuttaa">uuvvist</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">parentaa</l>
+         <stg>
+            <st Contlex="V-kirjuttaa">parent</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">syventää</l>
+         <stg>
+            <st Contlex="V-kirjuttaa">syvent</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">saauttaa</l>
+         <stg>
+            <st Contlex="V-kirjuttaa">saautt</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">syventää</l>
+         <stg>
+            <st Contlex="V-kirjuttaa">sevent</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">aloittaa</l>
+         <stg>
+            <st Contlex="V-kirjuttaa">aloitt</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">leekuttaa</l>
+         <stg>
+            <st Contlex="V-kirjuttaa">leekutt</st>
+            <st Contlex="V-kirjuttaa">liekutt</st>
+            <st Contlex="V-kirjuttaa">liikutt</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">opettaa</l>
+         <stg>
+            <st Contlex="V-kirjuttaa">opett</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">hämärtää</l>
+         <stg>
+            <st Contlex="V-kirjuttaa">hämärt</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">unnohtaa</l>
+         <stg>
+            <st Contlex="V-kirjuttaa">unnoht</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">mukkoittaa</l>
+         <stg>
+            <st Contlex="V-kirjuttaa">mukkoitt</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">pakaistaa</l>
+         <stg>
+            <st Contlex="V-kirjuttaa">pakaist</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">meşaittaa</l>
+         <stg>
+            <st Contlex="V-kirjuttaa">meşaitt</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">kalastaa</l>
+         <stg>
+            <st Contlex="V-kirjuttaa">kalast</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">tiijustaa</l>
+         <stg>
+            <st Contlex="V-kirjuttaa">tiijust</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">tiijystää</l>
+         <stg>
+            <st Contlex="V-kirjuttaa">tiijyst</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">kaivertaa</l>
+         <stg>
+            <st Contlex="V-kirjuttaa">kaivert</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">hävittää</l>
+         <stg>
+            <st Contlex="V-kirjuttaa">hävitt</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">hämmentää</l>
+         <stg>
+            <st Contlex="V-kirjuttaa">hämment</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">helpoittaa</l>
+         <stg>
+            <st Contlex="V-kirjuttaa">helpoitt</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">harottaa</l>
+         <stg>
+            <st Contlex="V-kirjuttaa">harott</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">eroittaa</l>
+         <stg>
+            <st Contlex="V-kirjuttaa">eroitt</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">erittää</l>
+         <stg>
+            <st Contlex="V-kirjuttaa">eritt</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">alottaa</l>
+         <stg>
+            <st Contlex="V-kirjuttaa">alott</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">parentaa</l>
+         <stg>
+            <st Contlex="V-kirjuttaa">parent</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">rinnoittaa</l>
+         <stg>
+            <st Contlex="V-kirjuttaa">rinnoitt</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">avittaa</l>
+         <stg>
+            <st Contlex="V-kirjuttaa">avitt</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">rajoittaa</l>
+         <stg>
+            <st Contlex="V-kirjuttaa">rajoitt</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">lopettaa</l>
+         <stg>
+            <st Contlex="V-kirjuttaa">lopett</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">erroittaa</l>
+         <stg>
+            <st Contlex="V-kirjuttaa">erroitt</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">tiitää</l>
+         <stg>
+            <st Contlex="V-tiitää">tiit</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">yhistää</l>
+         <stg>
+            <st Contlex="V-kirjuttaa">yhist</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">painuttaa</l>
+         <stg>
+            <st Contlex="V-kirjuttaa">painutt</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">tarkastaa</l>
+         <stg>
+            <st Contlex="V-kirjuttaa">tarkast</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">veittää</l>
+         <stg>
+            <st Contlex="V-näyttää">veitt</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">sattaa</l>
+         <stg>
+            <st Contlex="V-näyttää">sat</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">rinnoittaa</l>
+         <stg>
+            <st Contlex="V-näyttää">rinnoitt</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">praavittaa</l>
+         <stg>
+            <st Contlex="V-kirjuttaa">praavitt</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">vahvistaa</l>
+         <stg>
+            <st Contlex="V-kirjuttaa">vahvist</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">toimittaa</l>
+         <stg>
+            <st Contlex="V-kirjuttaa">toimitt</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">ƶaarittaa</l>
+         <stg>
+            <st Contlex="V-kirjuttaa">ƶaaritt</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">ƶaalivoittaa</l>
+         <stg>
+            <st Contlex="V-kirjuttaa">ƶaalivoitt</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">mukkoittaa</l>
+         <stg>
+            <st Contlex="V-kirjuttaa">mukkoitt</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">kutsua</l>
+         <stg>
+            <st Contlex="V-kutsua">kutsu</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">rikkoa</l>
+         <stg>
+            <st Contlex="V-kutsua">rikko</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">piättyä</l>
+         <stg>
+            <st Contlex="V-kutsua">piätty</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">keehua</l>
+         <stg>
+            <st Contlex="V-kutsua">keehu</st>
+            <st Contlex="V-kutsua">kiehu</st>
+            <st Contlex="V-kutsua">kiihu</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">kysyä</l>
+         <stg>
+            <st Contlex="V-kutsua">kysy</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">sammua</l>
+         <stg>
+            <st Contlex="V-kutsua">sammu</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">seisoa</l>
+         <stg>
+            <st Contlex="V-kutsua">seiso</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">yhtyä</l>
+         <stg>
+            <st Contlex="V-kutsua">yhty</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">tahtoa</l>
+         <stg>
+            <st Contlex="V-kutsua">tahto</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">ulvoa</l>
+         <stg>
+            <st Contlex="V-kutsua">ulvo</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">tokkua</l>
+         <stg>
+            <st Contlex="V-kutsua">tokku</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">haukkua</l>
+         <stg>
+            <st Contlex="V-kutsua">haukku</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">heeroa</l>
+         <stg>
+            <st Contlex="V-kutsua">heero</st>
+            <st Contlex="V-kutsua">hiero</st>
+            <st Contlex="V-kutsua">hiiro</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">etsiä</l>
+         <stg>
+            <st Contlex="V-kutsua">etsi</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">ampua</l>
+         <stg>
+            <st Contlex="V-kutsua">ampu</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">tahtoa</l>
+         <stg>
+            <st Contlex="V-kutsua">tahto</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">painua</l>
+         <stg>
+            <st Contlex="V-kutsua">painu</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">taittua</l>
+         <stg>
+            <st Contlex="V-kutsua">taittu</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">tuntua</l>
+         <stg>
+            <st Contlex="V-kutsua">tuntu</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">löytyä</l>
+         <stg>
+            <st Contlex="V-kutsua">löyty</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">istua</l>
+         <stg>
+            <st Contlex="V-kutsua">istu</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">ilmahtua</l>
+         <stg>
+            <st Contlex="V-ilmahtua">ilmah</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">unohtua</l>
+         <stg>
+            <st Contlex="V-ilmahtua">unoh</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">hyväksyä</l>
+         <stg>
+            <st Contlex="V-hyväksyä">hyväksy</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">mööhästyä</l>
+         <stg>
+            <st Contlex="V-hyväksyä">mööhästy</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">parentua</l>
+         <stg>
+            <st Contlex="V-hyväksyä">parentu</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">puhastua</l>
+         <stg>
+            <st Contlex="V-hyväksyä">puhastu</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">voimistua</l>
+         <stg>
+            <st Contlex="V-hyväksyä">voimistu</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">vanhettua</l>
+         <stg>
+            <st Contlex="V-hyväksyä">vanhettu</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">lyhentyä</l>
+         <stg>
+            <st Contlex="V-hyväksyä">lyhenty</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">mööhästyä</l>
+         <stg>
+            <st Contlex="V-hyväksyä">mööhästy</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">näkkyä</l>
+         <stg>
+            <st Contlex="V-kutsua">näky</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">sittoa</l>
+         <stg>
+            <st Contlex="V-kutsua">sito</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">kuttoa</l>
+         <stg>
+            <st Contlex="V-kutsua">kuto</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">yhistyä</l>
+         <stg>
+            <st Contlex="V-kutsua">yhisty</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">vaihtua</l>
+         <stg>
+            <st Contlex="V-kutsua">vaihtu</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">rippua</l>
+         <stg>
+            <st Contlex="V-kutsua">rippu</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">tapahtua</l>
+         <stg>
+            <st Contlex="V-ilmahtua">tapah</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">laatia</l>
+         <stg>
+            <st Contlex="V-laatia">laati</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">pöyhkiä</l>
+         <stg>
+            <st Contlex="V-laatia">pöyhki</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">tutkia</l>
+         <stg>
+            <st Contlex="V-laatia">tutki</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">loiskia</l>
+         <stg>
+            <st Contlex="V-laatia">loiski</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">onkia</l>
+         <stg>
+            <st Contlex="V-laatia">onki</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">ehtiä</l>
+         <stg>
+            <st Contlex="V-laatia">ehti</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">sluuƶia</l>
+         <stg>
+            <st Contlex="V-laatia">sluuƶi</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">laahia</l>
+         <stg>
+            <st Contlex="V-laatia">laahi</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">laatihussa</l>
+         <stg>
+            <st Contlex="V-laatihussa">laatihu</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">oppihussa</l>
+         <stg>
+            <st Contlex="V-laatihussa">oppihu</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">tekahussa</l>
+         <stg>
+            <st Contlex="V-laatihussa">tekahu</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">jakahussa</l>
+         <stg>
+            <st Contlex="V-laatihussa">jakahu</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">hoitua</l>
+         <stg>
+            <st Contlex="V-kutsua">hoitu</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">joutua</l>
+         <stg>
+            <st Contlex="V-kutsua">joutu</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">kuulua</l>
+         <stg>
+            <st Contlex="V-kutsua">kuulu</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">liittyä</l>
+         <stg>
+            <st Contlex="V-kutsua">liitty</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">muuttua</l>
+         <stg>
+            <st Contlex="V-kutsua">muuttu</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">puuttua</l>
+         <stg>
+            <st Contlex="V-kutsua">puuttu</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">syntyä</l>
+         <stg>
+            <st Contlex="V-kutsua">synty</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">loppua</l>
+         <stg>
+            <st Contlex="V-kutsua">loppu</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">katsoa</l>
+         <stg>
+            <st Contlex="V-kutsua">katso</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">tulla</l>
+         <stg>
+            <st Contlex="V-tulla">tul</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">ommella</l>
+         <stg>
+            <st Contlex="V-ommella">ompel</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">kuunnella</l>
+         <stg>
+            <st Contlex="V-ommella">kuuntel</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">katsella</l>
+         <stg>
+            <st Contlex="V-ommella">katsel</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">ootella</l>
+         <stg>
+            <st Contlex="V-ommella">oottel</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">petellä</l>
+         <stg>
+            <st Contlex="V-ommella">pettel</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">näytellä</l>
+         <stg>
+            <st Contlex="V-ommella">näytel</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">söötellä</l>
+         <stg>
+            <st Contlex="V-ommella">sööttel</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">koolla</l>
+         <stg>
+            <st Contlex="V-tulla">kool</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">tuulla</l>
+         <stg>
+            <st Contlex="V-tulla">tuul</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">kuulla</l>
+         <stg>
+            <st Contlex="V-tulla">kuul</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">noissa</l>
+         <stg>
+            <st Contlex="V-tulla">nois</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">päässä</l>
+         <stg>
+            <st Contlex="V-tulla">pääs</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">pessä</l>
+         <stg>
+            <st Contlex="V-tulla">pes</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">panna</l>
+         <stg>
+            <st Contlex="V-panna">pa</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">männä</l>
+         <stg>
+            <st Contlex="V-panna">mä</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">männä</l>
+         <stg>
+            <st Contlex="V-tulla">män</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">arvata</l>
+         <stg>
+            <st Contlex="V-arvata">arva</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">revätä</l>
+         <stg>
+            <st Contlex="V-arvata">repä</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">kraasata</l>
+         <stg>
+            <st Contlex="V-arvata">kraasa</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">maata</l>
+         <stg>
+            <st Contlex="V-arvata">maka</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">seilata</l>
+         <stg>
+            <st Contlex="V-arvata">seila</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">duumata</l>
+         <stg>
+            <st Contlex="V-arvata">duuma</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">reknata</l>
+         <stg>
+            <st Contlex="V-arvata">rekna</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">mitata</l>
+         <stg>
+            <st Contlex="V-arvata">mitta</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">lakata</l>
+         <stg>
+            <st Contlex="V-arvata">lakka</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">korjata</l>
+         <stg>
+            <st Contlex="V-arvata">korja</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">lisätä</l>
+         <stg>
+            <st Contlex="V-arvata">lisä</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">tervata</l>
+         <stg>
+            <st Contlex="V-arvata">terva</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">upota</l>
+         <stg>
+            <st Contlex="V-upota">uppo</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">erota</l>
+         <stg>
+            <st Contlex="V-upota">ero</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">tuumata</l>
+         <stg>
+            <st Contlex="V-arvata">tuuma</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">leikata</l>
+         <stg>
+            <st Contlex="V-arvata">leikka</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">sahata</l>
+         <stg>
+            <st Contlex="V-arvata">saha</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">salvata</l>
+         <stg>
+            <st Contlex="V-arvata">salpa</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">kelvata</l>
+         <stg>
+            <st Contlex="V-arvata">kelpa</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">kirjata</l>
+         <stg>
+            <st Contlex="V-arvata">kirja</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">virrata</l>
+         <stg>
+            <st Contlex="V-arvata">virta</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">avata</l>
+         <stg>
+            <st Contlex="V-arvata">ava</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">salvata</l>
+         <stg>
+            <st Contlex="V-arvata">salva</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">proovata</l>
+         <stg>
+            <st Contlex="V-arvata">proova</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">vastata</l>
+         <stg>
+            <st Contlex="V-arvata">vasta</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">läätä</l>
+         <stg>
+            <st Contlex="V-arvata">läkä</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">määrätä</l>
+         <stg>
+            <st Contlex="V-määrätä">määrä</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">olla</l>
+         <stg>
+            <st Contlex="V-olla">0</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="V">olla</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">ei</l>
+         <stg>
+            <st Contlex="V-ei">0</st>
+         </stg>
+      </lg>
+      <mg>
+            <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="V">ei</t>
+         </tg>
+      </mg>
+   </e>
+</r>

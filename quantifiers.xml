@@ -1,0 +1,1107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema"
+   xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
+   <e>
+      <lg>
+         <l pos="Num">ensimäin</l>
+         <stg>
+            <st Contlex="Ord-ensimäin">ensimäi</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t pos="Num">first</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="Num">ensimmäinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">ylempäin</l>
+         <stg>
+            <st Contlex="Ord-ensimäin">ylempäi</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">jälkimäin</l>
+         <stg>
+            <st Contlex="Ord-ensimäin">jälkimäi</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">toin</l>
+         <stg>
+            <st Contlex="Ord-toin">toi</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t pos="Num">second</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="Num">toinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e exclude="fst">
+      <lg>
+         <l pos="Qnt">sattais</l>
+         <stg>
+            <st Contlex="Ord-sattais">sat</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t pos="Num">hundredth</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="Num">sadas</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">muu</l>
+         <stg>
+            <st Contlex="Qnt-muu">muu</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">molemmat</l>
+         <stg>
+            <st Contlex="Qnt-molemmat">molemp</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">monikas</l>
+         <stg>
+            <st Contlex="Qnt-monikas">monikka</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">monikkain</l>
+         <stg>
+            <st Contlex="Qnt-monikkain">monikkai</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">moni</l>
+         <stg>
+            <st Contlex="Qnt-moni">mon</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">kaik</l>
+         <stg>
+            <st Contlex="Qnt-kaik">kaik</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t pos="Qnt">all</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="Qnt">kaikki</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">enemmän</l>
+         <stg>
+            <st Contlex="QntTag">enemmän</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t pos="Qnt">more</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="Qnt">enemmän</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">vähemmän</l>
+         <stg>
+            <st Contlex="QntTag">vähemmän</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">onto</l>
+         <stg>
+            <st Contlex="QntTag">onto</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="Qnt">vain</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">kaikkinee</l>
+         <stg>
+            <st Contlex="QntTag">kaikkinee</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">paljo</l>
+         <stg>
+            <st Contlex="Qnt-paljo">paljo</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">vähä</l>
+         <stg>
+            <st Contlex="Qnt-vähä">vähä</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">enä</l>
+         <stg>
+            <st Contlex="Qnt-vähä">enä</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">joka</l>
+         <stg>
+            <st Contlex="QntUniv-attr">joka</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t pos="Qnt">each</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="Qnt">joka</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">jokahiin</l>
+         <stg>
+            <st Contlex="QntUniv-jokahiin">jokahi</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t pos="Qnt">each</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="Qnt">joka</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">yks</l>
+         <stg>
+            <st Contlex="Num-yks">y</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t pos="Num">one</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="Num">yksi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">kaks</l>
+         <stg>
+            <st Contlex="Num-yks">ka</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t pos="Num">two</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="Num">kaksi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">kolt</l>
+         <stg>
+            <st Contlex="Num-kolt">kol</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t pos="Num">three</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="Num">kolme</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">neljä</l>
+         <stg>
+            <st Contlex="Num-neljä">neljä</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">kaheksan</l>
+         <stg>
+            <st Contlex="Num-kaheksan">kaheksa</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">yheksän</l>
+         <stg>
+            <st Contlex="Num-kaheksan">yheksä</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">seitsen</l>
+         <stg>
+            <st Contlex="Num-seitsen">seitse</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">mont</l>
+         <stg>
+            <st Contlex="Qnt-mont">mon</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">sata</l>
+         <stg>
+            <st Contlex="Num-sata">sat</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">tuhat</l>
+         <stg>
+            <st Contlex="Num-tuhat">tuha</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">kakssattaa</l>
+         <stg>
+            <st Contlex="Num-sata">kaks#sat</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">koltsattaa</l>
+         <stg>
+            <st Contlex="Num-sata">kolt#sat</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">neljäsattaa</l>
+         <stg>
+            <st Contlex="Num-sata">neljä#sat</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">viissattaa</l>
+         <stg>
+            <st Contlex="Num-sata">viis#sat</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">kuussattaa</l>
+         <stg>
+            <st Contlex="Num-sata">kuus#sat</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">seitsensattaa</l>
+         <stg>
+            <st Contlex="Num-sata">seitsen#sat</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">kaheksansattaa</l>
+         <stg>
+            <st Contlex="Num-sata">kaheksan#sat</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">yheksänsattaa</l>
+         <stg>
+            <st Contlex="Num-sata">yheksän#sat</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">kymmen</l>
+         <stg>
+            <st Contlex="Num-kymmen">kymmen</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">kakskymment</l>
+         <stg>
+            <st Contlex="Num-kakskymment">kaks#kymmen</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">koltkymment</l>
+         <stg>
+            <st Contlex="Num-kakskymment">kolt#kymmen</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">neljäkymment</l>
+         <stg>
+            <st Contlex="Num-kakskymment">neljä#kymmen</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">viiskymment</l>
+         <stg>
+            <st Contlex="Num-kakskymment">viis#kymmen</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">kuuskymment</l>
+         <stg>
+            <st Contlex="Num-kakskymment">kuus#kymmen</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">seitsenkymment</l>
+         <stg>
+            <st Contlex="Num-kakskymment">seitsen#kymmen</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">kaheksankymment</l>
+         <stg>
+            <st Contlex="Num-kakskymment">kaheksan#kymmen</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">yheksänkymment</l>
+         <stg>
+            <st Contlex="Num-kakskymment">yheksän#kymmen</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">kaheskymmenäs</l>
+         <stg>
+            <st Contlex="Num-kaheskymmenäs">kahes#kymmen</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">kolmaskymmenäs</l>
+         <stg>
+            <st Contlex="Num-kaheskymmenäs">kolmas#kymmen</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">neljäskymmenäs</l>
+         <stg>
+            <st Contlex="Num-kaheskymmenäs">neljäs#kymmen</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">viijeskymmenäs</l>
+         <stg>
+            <st Contlex="Num-kaheskymmenäs">viijes#kymmen</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">kuuvveskymmenäs</l>
+         <stg>
+            <st Contlex="Num-kaheskymmenäs">kuuvves#kymmen</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">seitsemäskymmenäs</l>
+         <stg>
+            <st Contlex="Num-kaheskymmenäs">seitsemäs#kymmen</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">kaheksaskymmenäs</l>
+         <stg>
+            <st Contlex="Num-kaheskymmenäs">kaheksas#kymmen</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">yheksäskymmenäs</l>
+         <stg>
+            <st Contlex="Num-kaheskymmenäs">yheksäs#kymmen</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">viis</l>
+         <stg>
+            <st Contlex="Num-viis">vii</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t pos="Num">five</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="Num">viisi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">kuus</l>
+         <stg>
+            <st Contlex="Num-viis">kuu</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t pos="Num">six</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="Num">kuusi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">kymmenäs</l>
+         <stg>
+            <st Contlex="NumOrd">kymmenä</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+</r>
