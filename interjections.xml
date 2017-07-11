@@ -1,138 +1,157 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<r xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema"
-   xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
-   <e>
-      <lg>
-         <l pos="Interj">aha</l>
-         <stg>
-            <st Contlex="INTERJ_">aha</st>
-         </stg>
-      </lg>
-      <mg>
-         <m>
-            <head/>
-         </m>
-         <tg xml:lang="eng">
-            <t pos="Interj"></t>
-         </tg>
-         <tg xml:lang="fin">
-            <t pos="Interj"></t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Interj">ai</l>
-         <stg>
-            <st Contlex="INTERJ_">ai</st>
-         </stg>
-      </lg>
-      <mg>
-         <m>
-            <head/>
-         </m>
-         <tg xml:lang="eng">
-            <t pos="Interj"></t>
-         </tg>
-         <tg xml:lang="fin">
-            <t pos="Interj"></t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Interj">ähä</l>
-         <stg>
-            <st Contlex="INTERJ_">ähä</st>
-         </stg>
-      </lg>
-      <mg>
-         <m>
-            <head/>
-         </m>
-         <tg xml:lang="eng">
-            <t pos="Interj"></t>
-         </tg>
-         <tg xml:lang="fin">
-            <t pos="Interj"></t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Interj">voi-voi</l>
-         <stg>
-            <st Contlex="INTERJ_">voi-voi</st>
-         </stg>
-      </lg>
-      <mg>
-         <m>
-            <head/>
-         </m>
-         <tg xml:lang="eng">
-            <t pos="Interj"></t>
-         </tg>
-         <tg xml:lang="fin">
-            <t pos="Interj">voi voi</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Interj">oi-oi</l>
-         <stg>
-            <st Contlex="INTERJ_">oi-oi</st>
-         </stg>
-      </lg>
-      <mg>
-         <m>
-            <head/>
-         </m>
-         <tg xml:lang="eng">
-            <t pos="Interj"></t>
-         </tg>
-         <tg xml:lang="fin">
-            <t pos="Interj"></t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Interj">tprr</l>
-         <stg>
-            <st Contlex="INTERJ_">tprr</st>
-         </stg>
-      </lg>
-      <mg>
-         <m>
-            <head/>
-         </m>
-         <tg xml:lang="eng">
-            <t pos="Interj"></t>
-         </tg>
-         <tg xml:lang="fin">
-            <t pos="Interj"></t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Interj">vohma</l>
-         <stg>
-            <st Contlex="INTERJ_">vohma</st>
-         </stg>
-      </lg>
-      <mg>
-         <m>
-            <head/>
-         </m>
-         <tg xml:lang="eng">
-            <t pos="Interj"></t>
-         </tg>
-         <tg xml:lang="fin">
-            <t pos="Interj"></t>
-         </tg>
-      </mg>
-   </e>
+<?xml version="1.0" ?>
+<r xml:lang="izh" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd">
+	<e id="None" meta="">
+		<lg>
+			<l pos="INTERJ">aha</l>
+			<stg>
+				<st Contlex="INTERJ_">aha</st>
+			</stg>
+		</lg>
+		<sources>
+         </sources>
+		<mg relId="0">
+			<m>
+            </m>
+			<semantics>
+</semantics>
+			<tg xml:lang="eng">
+				<t pos="Interj"/>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="Interj"/>
+			</tg>
+		</mg>
+	</e>
+	<e id="None" meta="">
+		<lg>
+			<l pos="INTERJ">ai</l>
+			<stg>
+				<st Contlex="INTERJ_">ai</st>
+			</stg>
+		</lg>
+		<sources>
+         </sources>
+		<mg relId="0">
+			<m>
+            </m>
+			<semantics>
+</semantics>
+			<tg xml:lang="eng">
+				<t pos="Interj"/>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="Interj"/>
+			</tg>
+		</mg>
+	</e>
+	<e id="None" meta="">
+		<lg>
+			<l pos="INTERJ">ähä</l>
+			<stg>
+				<st Contlex="INTERJ_">ähä</st>
+			</stg>
+		</lg>
+		<sources>
+         </sources>
+		<mg relId="0">
+			<m>
+            </m>
+			<semantics>
+</semantics>
+			<tg xml:lang="eng">
+				<t pos="Interj"/>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="Interj"/>
+			</tg>
+		</mg>
+	</e>
+	<e id="None" meta="">
+		<lg>
+			<l pos="INTERJ">voi-voi</l>
+			<stg>
+				<st Contlex="INTERJ_">voi-voi</st>
+			</stg>
+		</lg>
+		<sources>
+         </sources>
+		<mg relId="0">
+			<m>
+            </m>
+			<semantics>
+</semantics>
+			<tg xml:lang="eng">
+				<t pos="Interj"/>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="Interj">voi voi</t>
+			</tg>
+		</mg>
+	</e>
+	<e id="None" meta="">
+		<lg>
+			<l pos="INTERJ">oi-oi</l>
+			<stg>
+				<st Contlex="INTERJ_">oi-oi</st>
+			</stg>
+		</lg>
+		<sources>
+         </sources>
+		<mg relId="0">
+			<m>
+            </m>
+			<semantics>
+</semantics>
+			<tg xml:lang="eng">
+				<t pos="Interj"/>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="Interj"/>
+			</tg>
+		</mg>
+	</e>
+	<e id="None" meta="">
+		<lg>
+			<l pos="INTERJ">tprr</l>
+			<stg>
+				<st Contlex="INTERJ_">tprr</st>
+			</stg>
+		</lg>
+		<sources>
+         </sources>
+		<mg relId="0">
+			<m>
+            </m>
+			<semantics>
+</semantics>
+			<tg xml:lang="eng">
+				<t pos="Interj"/>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="Interj"/>
+			</tg>
+		</mg>
+	</e>
+	<e id="None" meta="">
+		<lg>
+			<l pos="INTERJ">vohma</l>
+			<stg>
+				<st Contlex="INTERJ_">vohma</st>
+			</stg>
+		</lg>
+		<sources>
+         </sources>
+		<mg relId="0">
+			<m>
+            </m>
+			<semantics>
+</semantics>
+			<tg xml:lang="eng">
+				<t pos="Interj"/>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="Interj"/>
+			</tg>
+		</mg>
+	</e>
 </r>

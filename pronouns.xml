@@ -1,423 +1,497 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<r xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema"
-   xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
-   <e>
-      <lg>
-         <l pos="Pron">miä</l>
-         <stg>
-            <st Contlex="PersSg1">mi</st>
-         </stg>
-      </lg>
-      <mg>
-         <m>
-            <head/>
-         </m>
-         <tg xml:lang="eng">
-            <t pos="Pron"></t>
-         </tg>
-         <tg xml:lang="fin">
-            <t pos="Pron">minä</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">mokoma</l>
-         <stg>
-            <st Contlex="Pron-mokoma">mokom</st>
-         </stg>
-      </lg>
-      <mg>
-         <m>
-            <head/>
-         </m>
-         <tg xml:lang="eng">
-            <t pos="Pron"></t>
-         </tg>
-         <tg xml:lang="fin">
-            <t pos="Pron"></t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">itse</l>
-         <stg>
-            <st Contlex="Refl-itse">its</st>
-         </stg>
-      </lg>
-      <mg>
-         <m>
-            <head/>
-         </m>
-         <tg xml:lang="eng">
-            <t pos="Pron"></t>
-         </tg>
-         <tg xml:lang="fin">
-            <t pos="Pron">itse</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">miltain</l>
-         <stg>
-            <st Contlex="Pron-miltain">miltai</st>
-         </stg>
-      </lg>
-      <mg>
-         <m>
-            <head/>
-         </m>
-         <tg xml:lang="eng">
-            <t pos="Pron"></t>
-         </tg>
-         <tg xml:lang="fin">
-            <t pos="Pron"></t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">kumpain</l>
-         <stg>
-            <st Contlex="Pron-miltain">kumpai</st>
-         </stg>
-      </lg>
-      <mg>
-         <m>
-            <head/>
-         </m>
-         <tg xml:lang="eng">
-            <t pos="Pron"></t>
-         </tg>
-         <tg xml:lang="fin">
-            <t pos="Pron">kumpi</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">siä</l>
-         <stg>
-            <st Contlex="PersSg2">si</st>
-         </stg>
-      </lg>
-      <mg>
-         <m>
-            <head/>
-         </m>
-         <tg xml:lang="eng">
-            <t pos="Pron"></t>
-         </tg>
-         <tg xml:lang="fin">
-            <t pos="Pron">sinä</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">hää</l>
-         <stg>
-            <st Contlex="PersSg3">hä</st>
-         </stg>
-      </lg>
-      <mg>
-         <m>
-            <head/>
-         </m>
-         <tg xml:lang="eng">
-            <t pos="Pron"></t>
-         </tg>
-         <tg xml:lang="fin">
-            <t pos="Pron">hän</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">möö</l>
-         <stg>
-            <st Contlex="PersPl1">m</st>
-         </stg>
-      </lg>
-      <mg>
-         <m>
-            <head/>
-         </m>
-         <tg xml:lang="eng">
-            <t pos="Pron"></t>
-         </tg>
-         <tg xml:lang="fin">
-            <t pos="Pron">me</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">töö</l>
-         <stg>
-            <st Contlex="PersPl2">t</st>
-         </stg>
-      </lg>
-      <mg>
-         <m>
-            <head/>
-         </m>
-         <tg xml:lang="eng">
-            <t pos="Pron"></t>
-         </tg>
-         <tg xml:lang="fin">
-            <t pos="Pron">te</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">höö</l>
-         <stg>
-            <st Contlex="PersPl3">h</st>
-         </stg>
-      </lg>
-      <mg>
-         <m>
-            <head/>
-         </m>
-         <tg xml:lang="eng">
-            <t pos="Pron"></t>
-         </tg>
-         <tg xml:lang="fin">
-            <t pos="Pron">he</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">se</l>
-         <stg>
-            <st Contlex="Dem-se">s</st>
-         </stg>
-      </lg>
-      <mg>
-         <m>
-            <head/>
-         </m>
-         <tg xml:lang="eng">
-            <t pos="Pron"></t>
-         </tg>
-         <tg xml:lang="fin">
-            <t pos="Pron">se</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">mittää</l>
-         <stg>
-            <st Contlex="Pron-Neg">mittää</st>
-         </stg>
-      </lg>
-      <mg>
-         <m>
-            <head/>
-         </m>
-         <tg xml:lang="eng">
-            <t pos="Pron"></t>
-         </tg>
-         <tg xml:lang="fin">
-            <t pos="Pron"></t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">neet</l>
-         <stg>
-            <st Contlex="Dem-neet">n</st>
-         </stg>
-      </lg>
-      <mg>
-         <m>
-            <head/>
-         </m>
-         <tg xml:lang="eng">
-            <t pos="Pron"></t>
-         </tg>
-         <tg xml:lang="fin">
-            <t pos="Pron">ne</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">sikäläin</l>
-         <stg>
-            <st Contlex="Dem-sikäläin">sikäläi</st>
-         </stg>
-      </lg>
-      <mg>
-         <m>
-            <head/>
-         </m>
-         <tg xml:lang="eng">
-            <t pos="Pron"></t>
-         </tg>
-         <tg xml:lang="fin">
-            <t pos="Pron">sikäläinen</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">täkäläin</l>
-         <stg>
-            <st Contlex="Dem-sikäläin">täkäläi</st>
-         </stg>
-      </lg>
-      <mg>
-         <m>
-            <head/>
-         </m>
-         <tg xml:lang="eng">
-            <t pos="Pron"></t>
-         </tg>
-         <tg xml:lang="fin">
-            <t pos="Pron">täkäläinen</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">meikäläin</l>
-         <stg>
-            <st Contlex="Dem-sikäläin">meikäläi</st>
-         </stg>
-      </lg>
-      <mg>
-         <m>
-            <head/>
-         </m>
-         <tg xml:lang="eng">
-            <t pos="Pron"></t>
-         </tg>
-         <tg xml:lang="fin">
-            <t pos="Pron">meikäläinen</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">nämä</l>
-         <stg>
-            <st Contlex="Dem-nämä">nä</st>
-         </stg>
-      </lg>
-      <mg>
-         <m>
-            <head/>
-         </m>
-         <tg xml:lang="eng">
-            <t pos="Pron"></t>
-         </tg>
-         <tg xml:lang="fin">
-            <t pos="Pron">nämä</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">tämä</l>
-         <stg>
-            <st Contlex="Dem-tämä">tä</st>
-         </stg>
-      </lg>
-      <mg>
-         <m>
-            <head/>
-         </m>
-         <tg xml:lang="eng">
-            <t pos="Pron"></t>
-         </tg>
-         <tg xml:lang="fin">
-            <t pos="Pron">tämä</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">kumpa</l>
-         <stg>
-            <st Contlex="Pron-kumpa">kumpa</st>
-         </stg>
-      </lg>
-      <mg>
-         <m>
-            <head/>
-         </m>
-         <tg xml:lang="eng">
-            <t pos="Pron"></t>
-         </tg>
-         <tg xml:lang="fin">
-            <t pos="Pron"></t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">mikä</l>
-         <stg>
-            <st Contlex="PronInterr-mikä">mi</st>
-         </stg>
-      </lg>
-      <mg>
-         <m>
-            <head/>
-         </m>
-         <tg xml:lang="eng">
-            <t pos="Pron"></t>
-         </tg>
-         <tg xml:lang="fin">
-            <t pos="Pron">mikä</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">ken</l>
-         <stg>
-            <st Contlex="PronInterr-ken">ke</st>
-         </stg>
-      </lg>
-      <mg>
-         <m>
-            <head/>
-         </m>
-         <tg xml:lang="eng">
-            <t pos="Pron"></t>
-         </tg>
-         <tg xml:lang="fin">
-            <t pos="Pron">kuka</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">kus</l>
-         <stg>
-            <st Contlex="PronInterr-kus">ku</st>
-         </stg>
-      </lg>
-      <mg>
-         <m>
-            <head/>
-         </m>
-         <tg xml:lang="eng">
-            <t pos="Pron">where</t>
-         </tg>
-         <tg xml:lang="fin">
-            <t pos="Pron">missä</t>
-         </tg>
-      </mg>
-   </e>
+<?xml version="1.0" ?>
+<r xml:lang="izh" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd">
+	<e id="None" meta="">
+		<lg>
+			<l pos="PRON">täkäläin</l>
+			<stg>
+				<st Contlex="Dem-sikäläin">täkäläi</st>
+			</stg>
+		</lg>
+		<sources>
+         </sources>
+		<mg relId="0">
+			<m>
+            </m>
+			<semantics>
+</semantics>
+			<tg xml:lang="eng">
+				<t pos="Pron"/>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="Pron">täkäläinen</t>
+			</tg>
+		</mg>
+	</e>
+	<e id="None" meta="">
+		<lg>
+			<l pos="PRON">töö</l>
+			<stg>
+				<st Contlex="PersPl2">t</st>
+			</stg>
+		</lg>
+		<sources>
+         </sources>
+		<mg relId="0">
+			<m>
+            </m>
+			<semantics>
+</semantics>
+			<tg xml:lang="eng">
+				<t pos="Pron"/>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="Pron">te</t>
+			</tg>
+		</mg>
+	</e>
+	<e id="None" meta="">
+		<lg>
+			<l pos="PRON">miä</l>
+			<stg>
+				<st Contlex="PersSg1">mi</st>
+			</stg>
+		</lg>
+		<sources>
+         </sources>
+		<mg relId="0">
+			<m>
+            </m>
+			<semantics>
+</semantics>
+			<tg xml:lang="eng">
+				<t pos="Pron"/>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="Pron">minä</t>
+			</tg>
+		</mg>
+	</e>
+	<e id="None" meta="">
+		<lg>
+			<l pos="PRON">mokoma</l>
+			<stg>
+				<st Contlex="Pron-mokoma">mokom</st>
+			</stg>
+		</lg>
+		<sources>
+         </sources>
+		<mg relId="0">
+			<m>
+            </m>
+			<semantics>
+</semantics>
+			<tg xml:lang="eng">
+				<t pos="Pron"/>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="Pron"/>
+			</tg>
+		</mg>
+	</e>
+	<e id="None" meta="">
+		<lg>
+			<l pos="PRON">itse</l>
+			<stg>
+				<st Contlex="Refl-itse">its</st>
+			</stg>
+		</lg>
+		<sources>
+         </sources>
+		<mg relId="0">
+			<m>
+            </m>
+			<semantics>
+</semantics>
+			<tg xml:lang="eng">
+				<t pos="Pron"/>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="Pron">itse</t>
+			</tg>
+		</mg>
+	</e>
+	<e id="None" meta="">
+		<lg>
+			<l pos="PRON">miltain</l>
+			<stg>
+				<st Contlex="Pron-miltain">miltai</st>
+			</stg>
+		</lg>
+		<sources>
+         </sources>
+		<mg relId="0">
+			<m>
+            </m>
+			<semantics>
+</semantics>
+			<tg xml:lang="eng">
+				<t pos="Pron"/>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="Pron"/>
+			</tg>
+		</mg>
+	</e>
+	<e id="None" meta="">
+		<lg>
+			<l pos="PRON">kumpain</l>
+			<stg>
+				<st Contlex="Pron-miltain">kumpai</st>
+			</stg>
+		</lg>
+		<sources>
+         </sources>
+		<mg relId="0">
+			<m>
+            </m>
+			<semantics>
+</semantics>
+			<tg xml:lang="eng">
+				<t pos="Pron"/>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="Pron">kumpi</t>
+			</tg>
+		</mg>
+	</e>
+	<e id="None" meta="">
+		<lg>
+			<l pos="PRON">siä</l>
+			<stg>
+				<st Contlex="PersSg2">si</st>
+			</stg>
+		</lg>
+		<sources>
+         </sources>
+		<mg relId="0">
+			<m>
+            </m>
+			<semantics>
+</semantics>
+			<tg xml:lang="eng">
+				<t pos="Pron"/>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="Pron">sinä</t>
+			</tg>
+		</mg>
+	</e>
+	<e id="None" meta="">
+		<lg>
+			<l pos="PRON">hää</l>
+			<stg>
+				<st Contlex="PersSg3">hä</st>
+			</stg>
+		</lg>
+		<sources>
+         </sources>
+		<mg relId="0">
+			<m>
+            </m>
+			<semantics>
+</semantics>
+			<tg xml:lang="eng">
+				<t pos="Pron"/>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="Pron">hän</t>
+			</tg>
+		</mg>
+	</e>
+	<e id="None" meta="">
+		<lg>
+			<l pos="PRON">möö</l>
+			<stg>
+				<st Contlex="PersPl1">m</st>
+			</stg>
+		</lg>
+		<sources>
+         </sources>
+		<mg relId="0">
+			<m>
+            </m>
+			<semantics>
+</semantics>
+			<tg xml:lang="eng">
+				<t pos="Pron"/>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="Pron">me</t>
+			</tg>
+		</mg>
+	</e>
+	<e id="None" meta="">
+		<lg>
+			<l pos="PRON">höö</l>
+			<stg>
+				<st Contlex="PersPl3">h</st>
+			</stg>
+		</lg>
+		<sources>
+         </sources>
+		<mg relId="0">
+			<m>
+            </m>
+			<semantics>
+</semantics>
+			<tg xml:lang="eng">
+				<t pos="Pron"/>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="Pron">he</t>
+			</tg>
+		</mg>
+	</e>
+	<e id="None" meta="">
+		<lg>
+			<l pos="PRON">se</l>
+			<stg>
+				<st Contlex="Dem-se">s</st>
+			</stg>
+		</lg>
+		<sources>
+         </sources>
+		<mg relId="0">
+			<m>
+            </m>
+			<semantics>
+</semantics>
+			<tg xml:lang="eng">
+				<t pos="Pron"/>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="Pron">se</t>
+			</tg>
+		</mg>
+	</e>
+	<e id="None" meta="">
+		<lg>
+			<l pos="PRON">mittää</l>
+			<stg>
+				<st Contlex="Pron-Neg">mittää</st>
+			</stg>
+		</lg>
+		<sources>
+         </sources>
+		<mg relId="0">
+			<m>
+            </m>
+			<semantics>
+</semantics>
+			<tg xml:lang="eng">
+				<t pos="Pron"/>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="Pron"/>
+			</tg>
+		</mg>
+	</e>
+	<e id="None" meta="">
+		<lg>
+			<l pos="PRON">neet</l>
+			<stg>
+				<st Contlex="Dem-neet">n</st>
+			</stg>
+		</lg>
+		<sources>
+         </sources>
+		<mg relId="0">
+			<m>
+            </m>
+			<semantics>
+</semantics>
+			<tg xml:lang="eng">
+				<t pos="Pron"/>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="Pron">ne</t>
+			</tg>
+		</mg>
+	</e>
+	<e id="None" meta="">
+		<lg>
+			<l pos="PRON">sikäläin</l>
+			<stg>
+				<st Contlex="Dem-sikäläin">sikäläi</st>
+			</stg>
+		</lg>
+		<sources>
+         </sources>
+		<mg relId="0">
+			<m>
+            </m>
+			<semantics>
+</semantics>
+			<tg xml:lang="eng">
+				<t pos="Pron"/>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="Pron">sikäläinen</t>
+			</tg>
+		</mg>
+	</e>
+	<e id="None" meta="">
+		<lg>
+			<l pos="PRON">meikäläin</l>
+			<stg>
+				<st Contlex="Dem-sikäläin">meikäläi</st>
+			</stg>
+		</lg>
+		<sources>
+         </sources>
+		<mg relId="0">
+			<m>
+            </m>
+			<semantics>
+</semantics>
+			<tg xml:lang="eng">
+				<t pos="Pron"/>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="Pron">meikäläinen</t>
+			</tg>
+		</mg>
+	</e>
+	<e id="None" meta="">
+		<lg>
+			<l pos="PRON">nämä</l>
+			<stg>
+				<st Contlex="Dem-nämä">nä</st>
+			</stg>
+		</lg>
+		<sources>
+         </sources>
+		<mg relId="0">
+			<m>
+            </m>
+			<semantics>
+</semantics>
+			<tg xml:lang="eng">
+				<t pos="Pron"/>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="Pron">nämä</t>
+			</tg>
+		</mg>
+	</e>
+	<e id="None" meta="">
+		<lg>
+			<l pos="PRON">tämä</l>
+			<stg>
+				<st Contlex="Dem-tämä">tä</st>
+			</stg>
+		</lg>
+		<sources>
+         </sources>
+		<mg relId="0">
+			<m>
+            </m>
+			<semantics>
+</semantics>
+			<tg xml:lang="eng">
+				<t pos="Pron"/>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="Pron">tämä</t>
+			</tg>
+		</mg>
+	</e>
+	<e id="None" meta="">
+		<map/>
+		<lg>
+			<l pos="PRON">kumpa</l>
+			<etymology>
+</etymology>
+			<stg>
+				<st Contlex="Pron-kumpa">kumpa</st>
+			</stg>
+			<compg>
+</compg>
+		</lg>
+		<sources>
+         </sources>
+		<mg relId="0">
+			<xg/>
+			<semantics>
+</semantics>
+		</mg>
+		<mg relId="0">
+			<m>
+            </m>
+			<semantics>
+</semantics>
+			<tg xml:lang="eng">
+				<t pos="Pron">that</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="Pron">joka</t>
+			</tg>
+		</mg>
+	</e>
+	<e id="None" meta="">
+		<lg>
+			<l pos="PRON">mikä</l>
+			<stg>
+				<st Contlex="PronInterr-mikä">mi</st>
+			</stg>
+		</lg>
+		<sources>
+         </sources>
+		<mg relId="0">
+			<m>
+            </m>
+			<semantics>
+</semantics>
+			<tg xml:lang="eng">
+				<t pos="Pron"/>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="Pron">mikä</t>
+			</tg>
+		</mg>
+	</e>
+	<e id="None" meta="">
+		<lg>
+			<l pos="PRON">ken</l>
+			<stg>
+				<st Contlex="PronInterr-ken">ke</st>
+			</stg>
+		</lg>
+		<sources>
+         </sources>
+		<mg relId="0">
+			<m>
+            </m>
+			<semantics>
+</semantics>
+			<tg xml:lang="eng">
+				<t pos="Pron"/>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="Pron">kuka</t>
+			</tg>
+		</mg>
+	</e>
+	<e id="None" meta="">
+		<lg>
+			<l pos="PRON">kus</l>
+			<stg>
+				<st Contlex="PronInterr-kus">ku</st>
+			</stg>
+		</lg>
+		<sources>
+         </sources>
+		<mg relId="0">
+			<m>
+            </m>
+			<semantics>
+</semantics>
+			<tg xml:lang="eng">
+				<t pos="Pron">where</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="Pron">missä</t>
+			</tg>
+		</mg>
+	</e>
 </r>
