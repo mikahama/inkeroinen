@@ -1,3 +1,4 @@
+#!/bin/python
 import codecs, os, glob, subprocess, requests
 import xml.dom.minidom
 
