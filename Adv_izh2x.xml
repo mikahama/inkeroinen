@@ -1,0 +1,1911 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xsi:noNamespaceSchemaLocation="../../../../../giella-core/schemas/fiu-dict-schema.xsd"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema"
+   xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
+   <e>
+      <lg>
+         <l pos="Adv">aattoon</l>
+         <stg>
+            <st Contlex="AdvTemp-Ess">aattoon</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="Adv">aattona</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">ni</l>
+         <stg>
+            <st Contlex="AdvTag">ni</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">poikkee</l>
+         <stg>
+            <st Contlex="AdvTag">poikkee</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">möötä</l>
+         <stg>
+            <st Contlex="AdvTag">möötä</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">mööhää</l>
+         <stg>
+            <st Contlex="AdvTag">mööhää</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">plys</l>
+         <stg>
+            <st Contlex="AdvTag">plys</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">viimeks</l>
+         <stg>
+            <st Contlex="AdvTag">viimeks</st>
+            <st Contlex="AdvTag">viimeeks</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">keskenää</l>
+         <stg>
+            <st Contlex="AdvTag">keskenää</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">hyvin</l>
+         <stg>
+            <st Contlex="AdvTag">hyvin</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">viimäks</l>
+         <stg>
+            <st Contlex="AdvTag">viimäks</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">voorollaa</l>
+         <stg>
+            <st Contlex="AdvTag">voorollaa</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">välimitee</l>
+         <stg>
+            <st Contlex="AdvTag">välimitee</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">aintakii</l>
+         <stg>
+            <st Contlex="AdvTag">aintakii</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">oikiistaa</l>
+         <stg>
+            <st Contlex="AdvTag">oikiistaa</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">auki</l>
+         <stg>
+            <st Contlex="AdvTag">auki</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">yksintää</l>
+         <stg>
+            <st Contlex="AdvTag">yksintää</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">siis</l>
+         <stg>
+            <st Contlex="AdvTag">siis</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">eikä</l>
+         <stg>
+            <st Contlex="AdvTag">eikä</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">ikkee</l>
+         <stg>
+            <st Contlex="AdvTag">ikkee</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">erittee</l>
+         <stg>
+            <st Contlex="AdvTag">erittee</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">vähiee</l>
+         <stg>
+            <st Contlex="AdvTag">vähittee</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">eriksee</l>
+         <stg>
+            <st Contlex="AdvTag">eriksee</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">melkeen</l>
+         <stg>
+            <st Contlex="AdvTag">melkeen</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">rinnatikkoo</l>
+         <stg>
+            <st Contlex="AdvTag">rinnatikkoo</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">yksittee</l>
+         <stg>
+            <st Contlex="AdvTag">yksittee</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">yhtperrää</l>
+         <stg>
+            <st Contlex="AdvTag">yhtperrää</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">poikittee</l>
+         <stg>
+            <st Contlex="AdvTag">poikittee</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">pitkittee</l>
+         <stg>
+            <st Contlex="AdvTag">pitkittee</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">partittee</l>
+         <stg>
+            <st Contlex="AdvTag">partittee</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">paikoittee</l>
+         <stg>
+            <st Contlex="AdvTag">paikoittee</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">enemmittee</l>
+         <stg>
+            <st Contlex="AdvTag">enemmittee</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">yksinää</l>
+         <stg>
+            <st Contlex="AdvTag">yksinää</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">osittee</l>
+         <stg>
+            <st Contlex="AdvTag">osittee</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">kiin</l>
+         <stg>
+            <st Contlex="AdvTag">kiin</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">kera</l>
+         <stg>
+            <st Contlex="AdvTag">kera</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">aintakkii</l>
+         <stg>
+            <st Contlex="AdvTag">aintakkii</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">ensikää</l>
+         <stg>
+            <st Contlex="AdvTag">ensikää</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">kovin</l>
+         <stg>
+            <st Contlex="AdvTag">kovin</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">vast</l>
+         <stg>
+            <st Contlex="AdvTag">vast</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">valepäähä</l>
+         <stg>
+            <st Contlex="AdvTag">valepäähä</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">niinikkee</l>
+         <stg>
+            <st Contlex="AdvTag">niinikkee</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">tihtimpää</l>
+         <stg>
+            <st Contlex="AdvTag">tihtimpää</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">ohto</l>
+         <stg>
+            <st Contlex="AdvTag">ohto</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">senperäst</l>
+         <stg>
+            <st Contlex="AdvTag">senperäst</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">peräjälkee</l>
+         <stg>
+            <st Contlex="AdvTag">peräjälkee</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">perätystää</l>
+         <stg>
+            <st Contlex="AdvTag">perätystää</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">perätykkee</l>
+         <stg>
+            <st Contlex="AdvTag">perätykkee</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">perätikko</l>
+         <stg>
+            <st Contlex="AdvTag">perätikko</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">perrääpäin</l>
+         <stg>
+            <st Contlex="AdvTag">perrääpäin</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">sentää</l>
+         <stg>
+            <st Contlex="AdvTag">sentää</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">kerallee</l>
+         <stg>
+            <st Contlex="AdvTag">kerallee</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">mukkaa</l>
+         <stg>
+            <st Contlex="AdvSpat">mukkaa</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">etteepäin</l>
+         <stg>
+            <st Contlex="AdvSpat">etteepäin</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">seelt</l>
+         <stg>
+            <st Contlex="AdvSpat">seelt</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">ettääl</l>
+         <stg>
+            <st Contlex="AdvSpat">ettääl</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">alempaan</l>
+         <stg>
+            <st Contlex="AdvSpat">alempaan</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">seel</l>
+         <stg>
+            <st Contlex="AdvSpat">seel</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">pois</l>
+         <stg>
+            <st Contlex="AdvSpat">pois</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">yllääl</l>
+         <stg>
+            <st Contlex="AdvSpat">yllääl</st>
+            <st Contlex="AdvSpat">yllähääl</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">yllält</l>
+         <stg>
+            <st Contlex="AdvSpat">yllält</st>
+            <st Contlex="AdvSpat">yllähält</st>
+            <st Contlex="AdvSpat">ylähält</st>
+            <st Contlex="AdvSpat">ylähäält</st>
+            <st Contlex="AdvSpat">yllähäält</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">yllää</l>
+         <stg>
+            <st Contlex="AdvSpat">yllää</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">ranta</l>
+         <stg>
+            <st Contlex="AdvSpat-Prl">rannoitse</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">pelto</l>
+         <stg>
+            <st Contlex="AdvSpat-Prl">pelloitse</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">niitty</l>
+         <stg>
+            <st Contlex="AdvSpat-Prl">niityitse</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">allaal</l>
+         <stg>
+            <st Contlex="AdvSpat">allaal</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">metsä</l>
+         <stg>
+            <st Contlex="AdvSpat-Prl">metsitse</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">meri</l>
+         <stg>
+            <st Contlex="AdvSpat-Prl">meritse</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">maa</l>
+         <stg>
+            <st Contlex="AdvSpat-Prl">maitse</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">ettee</l>
+         <stg>
+            <st Contlex="AdvSpat">ettee</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">koolla</l>
+         <stg>
+            <st Contlex="AdvSpat">koolla</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">päin</l>
+         <stg>
+            <st Contlex="AdvSpat">päin</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">tääl</l>
+         <stg>
+            <st Contlex="AdvSpat">tääl</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">sinne</l>
+         <stg>
+            <st Contlex="AdvSpat">sinne</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">tänne</l>
+         <stg>
+            <st Contlex="AdvSpat">tänne</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">ylempään</l>
+         <stg>
+            <st Contlex="AdvSpat">ylempään</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">täält</l>
+         <stg>
+            <st Contlex="AdvSpat">täält</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">ain</l>
+         <stg>
+            <st Contlex="AdvTemp">ain</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="Adv">aina</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">egle</l>
+         <stg>
+            <st Contlex="AdvTemp">egle</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="Adv">eilen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">tänäpään</l>
+         <stg>
+            <st Contlex="AdvTemp">tänäpään</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="Adv">tänään</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">nykyaikaa</l>
+         <stg>
+            <st Contlex="AdvTemp">nykyaikaa</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">tänävoonna</l>
+         <stg>
+            <st Contlex="AdvTemp">tänävoonna</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="Adv">tänä vuonna</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">varraa</l>
+         <stg>
+            <st Contlex="AdvTemp">varraa</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="Adv"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">koht</l>
+         <stg>
+            <st Contlex="AdvTemp">koht</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="Adv">kohta</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">taas</l>
+         <stg>
+            <st Contlex="AdvTemp">taas</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="Adv">taas</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">tihtii</l>
+         <stg>
+            <st Contlex="AdvTemp">tihtii</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="Adv">usein</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">konsikkee</l>
+         <stg>
+            <st Contlex="AdvTemp">konsikkee</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">paraikaa</l>
+         <stg>
+            <st Contlex="AdvTemp">paraikaa</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="Adv">parastaikaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">tihimpää</l>
+         <stg>
+            <st Contlex="AdvTemp">tihimpää</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="Adv">useammin</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">tänäpään</l>
+         <stg>
+            <st Contlex="AdvTemp">tänäpään</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="Adv">tänään</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">veel</l>
+         <stg>
+            <st Contlex="AdvTemp">veel</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="Adv">vielä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">ennen</l>
+         <stg>
+            <st Contlex="AdvTemp">ennen</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="Adv">vielä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">nyt</l>
+         <stg>
+            <st Contlex="AdvTemp">nyt</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">aikanaa</l>
+         <stg>
+            <st Contlex="AdvTemp">aikanaa</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">jo</l>
+         <stg>
+            <st Contlex="AdvTemp">jo</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="Adv">jo</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">enstää</l>
+         <stg>
+            <st Contlex="AdvTemp">enstää</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="Adv">ensistään</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">silloin</l>
+         <stg>
+            <st Contlex="AdvTemp">silloin</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">ennää</l>
+         <stg>
+            <st Contlex="AdvTemp">ennää</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="Adv">enää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">viisii</l>
+         <stg>
+            <st Contlex="AdvManner">viisii</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="Adv">tavalla</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">yhelviisii</l>
+         <stg>
+            <st Contlex="AdvManner">yhelviisii</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">silviisii</l>
+         <stg>
+            <st Contlex="AdvManner">silviisii</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="Adv">sillä tavalla</t>
+         </tg>
+      </mg>
+   </e>
+</r>
